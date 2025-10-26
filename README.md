@@ -32,7 +32,7 @@ Years prior to 2000 were excluded because:
 | **Finance** | `f2223_f1a`, `f2223_f2`, `f2223_f3` | Revenue, expenses, tuition; varies by institution type |
 | **Flags** | `flags2023` | Data availability & participation flags |
 | **Graduation Rates** | `gr2023`, `gr200_23` | 100% and 150% completion rates |
-| **Institutional Characteristics (HD / IC)** | `hd2023`, `ic2023`, `ic2023_ay`, `ic2023_py` | Core institutional metadata (UNITID, name, control, degree levels) |
+| **Institutional Characteristics (HD / IC)** | `hd2023`, `ic2023`, `ic2023_ay`, `ic2023_py` | Core institutional metadata (UNITID, name, control, degree levels, tuition) |
 | **Staff (S)** | `s2023_is`, `s2023_sis` | Instructional vs. Non-instructional staff |
 | **Staff Salaries (SAL)** | `sal2023_is`, `sal2023_nis` | Faculty and non-faculty salary data |
 | **Student Aid (SFA)** | `sfa2223`, `sfav2223` | Aid distribution and student financial support |
